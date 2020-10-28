@@ -1,0 +1,35 @@
+.w500 {
+  width: 500px;
+  height: 500px;
+}
+
+body {
+  font-family: 'Dosis', sans-serif;
+}
+
+.carousel-item {
+  width: 500px;
+  height: 500px;
+}
+
+#contact-img {
+  padding-top: 20px;
+  width: 75%;
+}
+
+p {
+  padding-top: 10px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+card {
+  align-content: center;
+}
+
+.btn {
+  background-color: pink
+}
