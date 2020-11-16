@@ -4,5 +4,5 @@ My portfolio features my first project and a few homework assignments from my ti
 
 Check it out <a href="https://stefanysanz.github.io/portfolio.html">here!</a> 
 
-<img src="portfolio.jpg" alt="portfolio">
+<img src="./img/portfolio.jpg" alt="portfolio">
 
