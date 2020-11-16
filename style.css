@@ -5,6 +5,7 @@
 
 body {
   font-family: 'Dosis', sans-serif;
+  font-size: 18px;
 }
 
 .carousel-item {
@@ -31,5 +32,9 @@ card {
 }
 
 .btn {
-  background-color: pink
+  background-color: lightpink
+}
+
+card {
+  padding-left: 20px;
 }
